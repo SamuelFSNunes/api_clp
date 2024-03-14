@@ -1,0 +1,16 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+
+# Arquivos gerados pelo editor de texto ou IDE
+.vscode/
+.idea/
+
+# Dependências geradas pelo Python
+__pycache__/
+venv/
+
+# Arquivos de log
+*.log
+
+# Outros arquivos específicos do seu projeto que você deseja ignorar
+db.sqlite3
