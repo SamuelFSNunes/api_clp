@@ -8,6 +8,7 @@
 # Dependências geradas pelo Python
 __pycache__/
 venv/
+.env
 
 # Arquivos de log
 *.log
